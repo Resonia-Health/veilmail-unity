@@ -1,0 +1,14 @@
+{
+  "name": "VeilMail.Editor",
+  "rootNamespace": "VeilMail.Editor",
+  "references": ["VeilMail.Runtime"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
