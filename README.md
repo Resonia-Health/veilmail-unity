@@ -1,6 +1,12 @@
 # VeilMail SDK for Unity
 
-Official Veil Mail SDK for Unity. Send transactional emails with automatic PII protection directly from your Unity projects.
+Official Veil Mail SDK for Unity. Send transactional and marketing emails with automatic PII protection directly from your Unity projects.
+
+> **Veil Mail is the only email API with a first-class Unity SDK.** Resend, SendGrid, Mailgun, and Postmark offer no official Unity support — you have to build it yourself with `UnityWebRequest` and hope your rate-limits and error handling don't break in production. This SDK gives you full API coverage, both `async`/`await` and coroutine APIs, editor tools, and a `ScriptableObject` config with build-time API key stripping.
+>
+> **Common use cases in games:** email verification, password reset, receipts and invoices, player re-engagement campaigns, live-ops announcements, tournament notifications, and transactional flows from game servers or standalone builds (including WebGL and mobile).
+>
+> **Other Veil Mail SDKs:** [Unreal Engine](https://github.com/Resonia-Health/veilmail-unreal) · [TouchDesigner](https://github.com/Resonia-Health/veilmail-touchdesigner) · [Node.js](https://github.com/Resonia-Health/veilmail-node) · [Python](https://github.com/Resonia-Health/veilmail-python) · [Go](https://github.com/Resonia-Health/veilmail-go) · [11 more](https://veilmail.xyz/docs)
 
 ## Overview
 
